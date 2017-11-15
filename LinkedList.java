@@ -1,6 +1,6 @@
 
 
-public LinkedList{
+class LinkedList{
 
 	Node head;
 
