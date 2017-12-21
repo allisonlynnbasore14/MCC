@@ -40,6 +40,8 @@ class LinkedList{
 		ll.push(2);
 	}
 
+	//public static push
+
 
 
 }
